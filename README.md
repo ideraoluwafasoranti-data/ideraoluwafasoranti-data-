@@ -4,8 +4,6 @@
 
 I am a Nutrition and Dietetics graduate. My research focuses on **knowledge-action gap in nutrition** and **intra-household food authority dynamics**. I am interested in understanding how household authority structures, like grandmothers and senior female relatives overriding clinic advice, or fathers receiving a bigger share of food resources despite underfunded young child nutrition, lead to poor infant and child feeding (IYCF) outcomes, *even when mothers already have the right knowledge*. Much of this work is grounded in Yoruba-speaking communities in Southwest Nigeria.
 
-I completed my NYSC with HelpMum Africa, where I led maternal health sensitization and Vitamin A supplementation outreach across Oyo State, and I currently volunteer with NutriMoms on grassroots IYCF and maternal dietary diversity advocacy. 
-
 ---
 
 ## Research Interests
@@ -21,19 +19,19 @@ I completed my NYSC with HelpMum Africa, where I led maternal health sensitizati
 
 ## Publications & Research Projects
 
-### 📄 Perspective (Preprint)
+### Perspective (Preprint)
 **Feeding Decisions in Multigenerational Households: A Social Identity Framework for Household-Inclusive IYCF Programming in Oyo State, Nigeria**
 Proposes a three-pillar framework (Elder Champion Model, Provider-Pride Reframe, Peer Mother Circles) to close the knowledge-action gap in IYCF programming, grounded in fieldwork in Lagelu LGA, Ibadan.
 (https://doi.org/10.5281/zenodo.22289558)
 
-### 📊 Maternal Autonomy, Child Dietary Adequacy, and Malnutrition in Nigeria
+### Maternal Autonomy, Child Dietary Adequacy, and Malnutrition in Nigeria
 Survey-weighted analysis of the 2024 NDHS examining how maternal autonomy relates to dietary diversity and child wasting/stunting, with zone-level disaggregation.
 [Repo →](https://github.com/ideraoluwafasoranti-data/nigeria-DHS-2024)
 
-### 💊 Vitamin A Pathways Among Nigerian Children Aged 6–23 Months
+### Vitamin A Pathways Among Nigerian Children Aged 6–23 Months
 Two-pathway analysis of dietary Vitamin A consumption and supplementation coverage using the 2024 NDHS, identifying a 41.6% "double gap" in children reached by neither pathway.
 
-### 🎓 Undergraduate Thesis
+### Undergraduate Thesis
 **Knowledge and Utilization of Folic Acid Supplementation Among Women of Childbearing Age**
 Mixed-methods study of 200 women of reproductive age; identified reliance on traditional birth attendants and mission/faith-based homes for delivery as a key barrier to supplementation uptake.
 
@@ -49,4 +47,4 @@ Mixed-methods study of 200 women of reproductive age; identified reliance on tra
 
 ## Connect
 
-[NEEDS INFO: confirm LinkedIn — linkedin.com/in/ideraoluwa-fasoranti- ]
+[linkedin.com/in/ideraoluwa-fasoranti- ]
