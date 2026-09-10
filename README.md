@@ -22,7 +22,7 @@ I am a Nutrition and Dietetics graduate. My research focuses on **knowledge-acti
 ### Perspective (Preprint)
 **Feeding Decisions in Multigenerational Households: A Social Identity Framework for Household-Inclusive IYCF Programming in Oyo State, Nigeria**
 Proposes a three-pillar framework (Elder Champion Model, Provider-Pride Reframe, Peer Mother Circles) to close the knowledge-action gap in IYCF programming, grounded in fieldwork in Lagelu LGA, Ibadan.
-(https://doi.org/10.5281/zenodo.22289558)
+[Preprint →](https://doi.org/10.5281/zenodo.22289558)
 
 ### Maternal Autonomy, Child Dietary Adequacy, and Malnutrition in Nigeria
 Survey-weighted analysis of the 2024 NDHS examining how maternal autonomy relates to dietary diversity and child wasting/stunting, with zone-level disaggregation.
@@ -47,4 +47,4 @@ Mixed-methods study of 200 women of reproductive age; identified reliance on tra
 
 ## Connect
 
-[linkedin.com/in/ideraoluwa-fasoranti- ]
+[LinkedIn](https://www.linkedin.com/in/ideraoluwa-fasoranti-)
