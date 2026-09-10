@@ -21,12 +21,14 @@ I am a Nutrition and Dietetics graduate. My research focuses on **knowledge-acti
 
 ### Perspective (Preprint)
 **Feeding Decisions in Multigenerational Households: A Social Identity Framework for Household-Inclusive IYCF Programming in Oyo State, Nigeria**
-Proposes a three-pillar framework (Elder Champion Model, Provider-Pride Reframe, Peer Mother Circles) to close the knowledge-action gap in IYCF programming, grounded in fieldwork in Lagelu LGA, Ibadan.
-[Preprint →](https://doi.org/10.5281/zenodo.22289558)
+Proposes a three-pillar framework (Elder Champion Model, Provider-Pride Reframe, Peer Mother Circles) to close the knowledge-action gap in IYCF programming, grounded in fieldwork in Ibadan, Oyo State.
+[![Preprint](https://img.shields.io/badge/Preprint-Connect-blue)]
+(https://doi.org/10.5281/zenodo.22289558)
 
 ### Maternal Autonomy, Child Dietary Adequacy, and Malnutrition in Nigeria
 Survey-weighted analysis of the 2024 NDHS examining how maternal autonomy relates to dietary diversity and child wasting/stunting, with zone-level disaggregation.
-[Repo →](https://github.com/ideraoluwafasoranti-data/nigeria-DHS-2024)
+[![Repo](https://img.shields.io/badge/Repo-Connect-blue)]
+(https://github.com/ideraoluwafasoranti-data/nigeria-DHS-2024)
 
 ### Vitamin A Pathways Among Nigerian Children Aged 6–23 Months
 Two-pathway analysis of dietary Vitamin A consumption and supplementation coverage using the 2024 NDHS, identifying a 41.6% "double gap" in children reached by neither pathway.
@@ -39,12 +41,14 @@ Mixed-methods study of 200 women of reproductive age; identified reliance on tra
 
 ## Field & Applied Experience
 
-- **HelpMum Africa (NYSC, Programs Intern)** — Led maternal health sensitization across 10 LGAs in Oyo State (100+ women engaged); coordinated Vitamin A supplementation outreach reaching 500+ children; tracked infant/child immunization schedules.
+- **HelpMum Africa (NYSC, Programs Intern)** -Led maternal health sensitization across 10 LGAs in Oyo State (100+ women engaged); coordinated Vitamin A supplementation outreach reaching 500+ children; tracked infant/child immunization schedules.
 - **NutriMoms (Advocacy Team)** - Grassroots advocacy on IYCF practices, maternal dietary diversity, and micronutrient intake; counsels mothers on exclusive breastfeeding and affordable complementary feeding using local foods.
-- **Abidiodan Primary Health Care Center, Ibadan (Volunteer, 2024–present)** - Weekly community sensitization clinics; infant growth monitoring; flagging high-risk acute malnutrition cases for referral.
+- **Abidiodan Primary Health Care Center, Ibadan (Volunteer)** - Weekly community sensitization clinics; infant growth monitoring; flagging high-risk acute malnutrition cases for referral.
 
 ---
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/ideraoluwa-fasoranti-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]
+(https://www.linkedin.com/in/ideraoluwa-fasoranti-)
+
